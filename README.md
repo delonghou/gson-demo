@@ -1,5 +1,6 @@
 # gson-demo
-1、这是一个maven项目。    
+睡懒觉萝素
+1、这是一个maven项目。    
 3、gson将json转换为java Bean对象   
 00000
 1、这是一个maven项目。 
